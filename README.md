@@ -149,3 +149,11 @@ Simply click on the JavaScript file and the tool will execute the test.
 
 Using Cypress framework for test automation
 Cypress's framework, that as we have shown works great for end-to-end test automation is a great solution for testing modern web apps. Since it is a JavaScript framework running on node js all your tests can be written easily. In this article, we also took a look at the Test Runner. We saw how simple it is to work with and how you can watch commands as they are executed without having to install any servers, dependencies or drivers.
+
+Steps to Run : 
+1.Create one folder PageObjects under cypress
+2.Add Address.js  ,  LoginPage.js    ,  Products.js under pageobjects
+3.Create three test scripts QAchallengetest1.js  , QAchallengetest2.js  , QAchallengetest3.js under integration tests
+4.Update the cypress.json and commnds.js
+
+
