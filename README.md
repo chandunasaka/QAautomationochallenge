@@ -155,5 +155,8 @@ Steps to Run :
 2.Add Address.js  ,  LoginPage.js    ,  Products.js under pageobjects
 3.Create three test scripts QAchallengetest1.js  , QAchallengetest2.js  , QAchallengetest3.js under integration tests
 4.Update the cypress.json and commnds.js
+5.now open terminal and enter the command npx cypress open
+6.In the testrunner click the QAchallengetest1.js and click on run the test cases will execute.
+7.More need to be developed and i did it as a basic work as the application is not stable and due to my workload in office also.
 
 
