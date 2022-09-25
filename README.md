@@ -1,4 +1,4 @@
-# QAautomationochallenge
+# Cypress Automation
 
 1Cypress Installation
 Installing Cypress is pretty simple and easy. The framework offers two options to install Cypress
