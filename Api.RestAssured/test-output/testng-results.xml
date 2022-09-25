@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5911" started-at="2022-09-25T10:36:09Z" finished-at="2022-09-25T10:36:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5911" started-at="2022-09-25T10:36:09Z" finished-at="2022-09-25T10:36:15Z">
+      <class name="com.atmecs.Api.RestAssured.TC_Videogameapi1">
+        <test-method status="PASS" signature="test_videogame()[pri:1, instance:com.atmecs.Api.RestAssured.TC_Videogameapi1@59f99ea]" name="test_videogame" duration-ms="2214" started-at="2022-09-25T10:36:09Z" finished-at="2022-09-25T10:36:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_videogame -->
+        <test-method status="PASS" signature="gettestforstatuscode()[pri:2, instance:com.atmecs.Api.RestAssured.TC_Videogameapi1@59f99ea]" name="gettestforstatuscode" duration-ms="1557" started-at="2022-09-25T10:36:12Z" finished-at="2022-09-25T10:36:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettestforstatuscode -->
+        <test-method status="PASS" signature="gettest()[pri:3, instance:com.atmecs.Api.RestAssured.TC_Videogameapi1@59f99ea]" name="gettest" duration-ms="229" started-at="2022-09-25T10:36:13Z" finished-at="2022-09-25T10:36:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettest -->
+        <test-method status="PASS" signature="puttest()[pri:4, instance:com.atmecs.Api.RestAssured.TC_Videogameapi1@59f99ea]" name="puttest" duration-ms="1131" started-at="2022-09-25T10:36:13Z" finished-at="2022-09-25T10:36:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- puttest -->
+        <test-method status="PASS" signature="posttest()[pri:5, instance:com.atmecs.Api.RestAssured.TC_Videogameapi1@59f99ea]" name="posttest" duration-ms="731" started-at="2022-09-25T10:36:14Z" finished-at="2022-09-25T10:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posttest -->
+      </class> <!-- com.atmecs.Api.RestAssured.TC_Videogameapi1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
